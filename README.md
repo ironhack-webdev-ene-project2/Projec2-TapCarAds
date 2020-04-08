@@ -1,16 +1,3 @@
-![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)
-
-# Module 2 | Project **"Tap Car Ads"**
-## Introduction
-This is the second project for the Web Development Part Time started in January 2019. Developed by Roberto Pernicone and Pedro Aviles.
-
-The project aims to bring an advertisement platform for transportation companies (like Uber or Cabify) where a mobile device like a tablet displays advertisements depending on the geo location of such device.
-
-The current VP offers the following features:
-* Login/Signup through email
-* Full CRUD for advertisement zones
-* Creation, listing and updating of advertisement campaigns
-* Geo Location aware player
 
 ## Setup
 Node version required: 11.14.0
