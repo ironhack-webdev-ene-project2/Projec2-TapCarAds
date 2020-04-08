@@ -10,14 +10,6 @@ body {
 a {
   color: #00b7ff; }
 
- #landing_logo{
-  background-image: url("../images/tapcar_logo.png");
-  background-size: 125px 50px;
-  width: 170px;
-  background-repeat: no-repeat;
-  background-position: center;
- } 
-
 form.auth-form input:invalid {
   box-shadow: 0 0 4px 1px red; }
 
